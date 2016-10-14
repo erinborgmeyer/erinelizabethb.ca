@@ -9,7 +9,7 @@ html {
  -ms-text-size-adjust: 100%;
  -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
-  font-family: Lato, sans-serif;
+  font-family: , sans-serif;
     
   }
 
@@ -20,10 +20,12 @@ html {
 
 body {
     margin: 0;
+    padding: 0;
+    font-family: "Mr Eaves XL Mod OT", Sans-serif
     
 }
 
-p { 
+.about { 
     color: #CCCCCC;
     margin: 2em;
     text-align: center;
@@ -31,17 +33,18 @@ p {
 }
 
 .logo {
-    height: 100px;
-    width: 100px;
+    height: 80px;
+    width: 80px;
     display: block;
     margin: auto;
 }
 
 .instagram {
-    height: 35px;
-    width: 35px;
+    height: 40px;
+    width: 40px;
     display: block;
     margin: auto;
+    padding-top: 1em;
     
 }
 
@@ -57,8 +60,8 @@ p {
     height: 40px;
     width: 40px;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
+    padding-top: 1em;
 
 }
 
@@ -70,6 +73,21 @@ p {
 
 .grid {
     list-style: none;
+    padding-top: 3em;
+    
+}
+
+p {
+    margin-left: 4em;
+    margin: 3em;
+    color: #6D6E71;
+    
+    
+}
+
+h1 {
+    margin: 1.5em;
+    
 
     
 }
