@@ -1,0 +1,4 @@
+Sitemap: https://erinborgmeyer.github.io/erinelizabethb.ca/sitemap.xml
+
+
+User-agent: *
