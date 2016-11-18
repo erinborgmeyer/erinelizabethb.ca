@@ -83,6 +83,7 @@ body {
 
 h1 { 
     font-size: 1.5em;
+    margin: 0em;
 }
 
 p {
@@ -92,7 +93,7 @@ p {
 }
 
 .photo {
-    margin: 1em;
+    margin: 0em;
 }
 
 .photo-bottom {
